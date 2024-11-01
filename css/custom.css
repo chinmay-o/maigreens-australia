@@ -1,0 +1,16 @@
+
+@media (max-width: 800px) {
+
+  .slideshow-bg__img {
+
+    object-position: -400px;
+  }
+}
+
+@media (max-width: 600px) {
+
+  .slideshow-bg__img {
+
+    object-position: -700px;
+  }
+}
